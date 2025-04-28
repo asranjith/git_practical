@@ -4,8 +4,8 @@ import org.testng.annotations.Test;
 
 public class CustomerTest {
 	@Test
-	public void missionTest()  {
-		System.out.println("mission");
+	public void customerTest()  {
+		System.out.println("customer is the first priority");
 	}
 
 }
